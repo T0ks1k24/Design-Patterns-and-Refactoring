@@ -13,7 +13,7 @@
             word.Open();
 
             pdf.Close();
-            pdf.Close();
+            word.Close();
         }
     }
 

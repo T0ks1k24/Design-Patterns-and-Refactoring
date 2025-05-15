@@ -1,14 +1,29 @@
-D:\Coding\Design Patterns and Refactoring\Lab2_2\bin\Debug\net8.0\Lab2_2.exe
-D:\Coding\Design Patterns and Refactoring\Lab2_2\bin\Debug\net8.0\Lab2_2.deps.json
-D:\Coding\Design Patterns and Refactoring\Lab2_2\bin\Debug\net8.0\Lab2_2.runtimeconfig.json
-D:\Coding\Design Patterns and Refactoring\Lab2_2\bin\Debug\net8.0\Lab2_2.dll
-D:\Coding\Design Patterns and Refactoring\Lab2_2\bin\Debug\net8.0\Lab2_2.pdb
-D:\Coding\Design Patterns and Refactoring\Lab2_2\obj\Debug\net8.0\Lab2_2.GeneratedMSBuildEditorConfig.editorconfig
-D:\Coding\Design Patterns and Refactoring\Lab2_2\obj\Debug\net8.0\Lab2_2.AssemblyInfoInputs.cache
-D:\Coding\Design Patterns and Refactoring\Lab2_2\obj\Debug\net8.0\Lab2_2.AssemblyInfo.cs
-D:\Coding\Design Patterns and Refactoring\Lab2_2\obj\Debug\net8.0\Lab2_2.csproj.CoreCompileInputs.cache
-D:\Coding\Design Patterns and Refactoring\Lab2_2\obj\Debug\net8.0\Lab2_2.dll
-D:\Coding\Design Patterns and Refactoring\Lab2_2\obj\Debug\net8.0\refint\Lab2_2.dll
-D:\Coding\Design Patterns and Refactoring\Lab2_2\obj\Debug\net8.0\Lab2_2.pdb
-D:\Coding\Design Patterns and Refactoring\Lab2_2\obj\Debug\net8.0\Lab2_2.genruntimeconfig.cache
-D:\Coding\Design Patterns and Refactoring\Lab2_2\obj\Debug\net8.0\ref\Lab2_2.dll
+D:/Coding/Design Patterns and Refactoring/Lab2_2/bin/Debug/net8.0/Lab2_2.exe
+D:/Coding/Design Patterns and Refactoring/Lab2_2/bin/Debug/net8.0/Lab2_2.deps.json
+D:/Coding/Design Patterns and Refactoring/Lab2_2/bin/Debug/net8.0/Lab2_2.runtimeconfig.json
+D:/Coding/Design Patterns and Refactoring/Lab2_2/bin/Debug/net8.0/Lab2_2.dll
+D:/Coding/Design Patterns and Refactoring/Lab2_2/bin/Debug/net8.0/Lab2_2.pdb
+D:/Coding/Design Patterns and Refactoring/Lab2_2/obj/Debug/net8.0/Lab2_2.GeneratedMSBuildEditorConfig.editorconfig
+D:/Coding/Design Patterns and Refactoring/Lab2_2/obj/Debug/net8.0/Lab2_2.AssemblyInfoInputs.cache
+D:/Coding/Design Patterns and Refactoring/Lab2_2/obj/Debug/net8.0/Lab2_2.AssemblyInfo.cs
+D:/Coding/Design Patterns and Refactoring/Lab2_2/obj/Debug/net8.0/Lab2_2.csproj.CoreCompileInputs.cache
+D:/Coding/Design Patterns and Refactoring/Lab2_2/obj/Debug/net8.0/Lab2_2.dll
+D:/Coding/Design Patterns and Refactoring/Lab2_2/obj/Debug/net8.0/refint/Lab2_2.dll
+D:/Coding/Design Patterns and Refactoring/Lab2_2/obj/Debug/net8.0/Lab2_2.pdb
+D:/Coding/Design Patterns and Refactoring/Lab2_2/obj/Debug/net8.0/Lab2_2.genruntimeconfig.cache
+D:/Coding/Design Patterns and Refactoring/Lab2_2/obj/Debug/net8.0/ref/Lab2_2.dll
+/workspaces/Design-Patterns-and-Refactoring/Lab2_2/bin/Debug/net8.0/Lab2_2
+/workspaces/Design-Patterns-and-Refactoring/Lab2_2/bin/Debug/net8.0/Lab2_2.deps.json
+/workspaces/Design-Patterns-and-Refactoring/Lab2_2/bin/Debug/net8.0/Lab2_2.runtimeconfig.json
+/workspaces/Design-Patterns-and-Refactoring/Lab2_2/bin/Debug/net8.0/Lab2_2.dll
+/workspaces/Design-Patterns-and-Refactoring/Lab2_2/bin/Debug/net8.0/Lab2_2.pdb
+/workspaces/Design-Patterns-and-Refactoring/Lab2_2/obj/Debug/net8.0/Lab2_2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Design-Patterns-and-Refactoring/Lab2_2/obj/Debug/net8.0/Lab2_2.AssemblyInfoInputs.cache
+/workspaces/Design-Patterns-and-Refactoring/Lab2_2/obj/Debug/net8.0/Lab2_2.AssemblyInfo.cs
+/workspaces/Design-Patterns-and-Refactoring/Lab2_2/obj/Debug/net8.0/Lab2_2.csproj.CoreCompileInputs.cache
+/workspaces/Design-Patterns-and-Refactoring/Lab2_2/obj/Debug/net8.0/Lab2_2.sourcelink.json
+/workspaces/Design-Patterns-and-Refactoring/Lab2_2/obj/Debug/net8.0/Lab2_2.dll
+/workspaces/Design-Patterns-and-Refactoring/Lab2_2/obj/Debug/net8.0/refint/Lab2_2.dll
+/workspaces/Design-Patterns-and-Refactoring/Lab2_2/obj/Debug/net8.0/Lab2_2.pdb
+/workspaces/Design-Patterns-and-Refactoring/Lab2_2/obj/Debug/net8.0/Lab2_2.genruntimeconfig.cache
+/workspaces/Design-Patterns-and-Refactoring/Lab2_2/obj/Debug/net8.0/ref/Lab2_2.dll
