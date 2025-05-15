@@ -1,0 +1,839 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\Design Patterns and Refactoring\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F286C4D-48E8-451B-961E-A71A07B61BF4}|..\\Lab5_2\\Lab5_2.csproj|d:\\coding\\design patterns and refactoring\\lab5_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F286C4D-48E8-451B-961E-A71A07B61BF4}|..\\Lab5_2\\Lab5_2.csproj|d:\\coding\\design patterns and refactoring\\lab5_2\\orderfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F286C4D-48E8-451B-961E-A71A07B61BF4}|..\\Lab5_2\\Lab5_2.csproj|d:\\coding\\design patterns and refactoring\\lab5_2\\services\\shipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F286C4D-48E8-451B-961E-A71A07B61BF4}|..\\Lab5_2\\Lab5_2.csproj|d:\\coding\\design patterns and refactoring\\lab5_2\\services\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F286C4D-48E8-451B-961E-A71A07B61BF4}|..\\Lab5_2\\Lab5_2.csproj|d:\\coding\\design patterns and refactoring\\lab5_2\\services\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EE1EED-EBDA-4DC4-AB2D-2F10DA3343E9}|..\\Lab5_1\\Lab5_1.csproj|d:\\coding\\design patterns and refactoring\\lab5_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EE1EED-EBDA-4DC4-AB2D-2F10DA3343E9}|..\\Lab5_1\\Lab5_1.csproj|d:\\coding\\design patterns and refactoring\\lab5_1\\decorator\\sugardecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EE1EED-EBDA-4DC4-AB2D-2F10DA3343E9}|..\\Lab5_1\\Lab5_1.csproj|d:\\coding\\design patterns and refactoring\\lab5_1\\decorator\\milkdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EE1EED-EBDA-4DC4-AB2D-2F10DA3343E9}|..\\Lab5_1\\Lab5_1.csproj|d:\\coding\\design patterns and refactoring\\lab5_1\\decorator\\chocolatedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EE1EED-EBDA-4DC4-AB2D-2F10DA3343E9}|..\\Lab5_1\\Lab5_1.csproj|d:\\coding\\design patterns and refactoring\\lab5_1\\decorator\\coffeedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EE1EED-EBDA-4DC4-AB2D-2F10DA3343E9}|..\\Lab5_1\\Lab5_1.csproj|d:\\coding\\design patterns and refactoring\\lab5_1\\icoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EE1EED-EBDA-4DC4-AB2D-2F10DA3343E9}|..\\Lab5_1\\Lab5_1.csproj|d:\\coding\\design patterns and refactoring\\lab5_1\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EE1EED-EBDA-4DC4-AB2D-2F10DA3343E9}|..\\Lab5_1\\Lab5_1.csproj|d:\\coding\\design patterns and refactoring\\lab5_1\\lab5_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1818B1-FFE7-428E-94E3-E3168A3A382A}|..\\Lab4_2\\Lab4_2.csproj|d:\\coding\\design patterns and refactoring\\lab4_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1818B1-FFE7-428E-94E3-E3168A3A382A}|..\\Lab4_2\\Lab4_2.csproj|d:\\coding\\design patterns and refactoring\\lab4_2\\birdadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1818B1-FFE7-428E-94E3-E3168A3A382A}|..\\Lab4_2\\Lab4_2.csproj|d:\\coding\\design patterns and refactoring\\lab4_2\\class\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1818B1-FFE7-428E-94E3-E3168A3A382A}|..\\Lab4_2\\Lab4_2.csproj|d:\\coding\\design patterns and refactoring\\lab4_2\\class\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1818B1-FFE7-428E-94E3-E3168A3A382A}|..\\Lab4_2\\Lab4_2.csproj|d:\\coding\\design patterns and refactoring\\lab4_2\\interface\\ibird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1818B1-FFE7-428E-94E3-E3168A3A382A}|..\\Lab4_2\\Lab4_2.csproj|d:\\coding\\design patterns and refactoring\\lab4_2\\interface\\iairplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F89EAD-2EC0-4B41-8170-715F6747AF51}|..\\Lab4\\Lab4_1.csproj|d:\\coding\\design patterns and refactoring\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F89EAD-2EC0-4B41-8170-715F6747AF51}|..\\Lab4\\Lab4_1.csproj|d:\\coding\\design patterns and refactoring\\lab4\\docs\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F89EAD-2EC0-4B41-8170-715F6747AF51}|..\\Lab4\\Lab4_1.csproj|d:\\coding\\design patterns and refactoring\\lab4\\docs\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F89EAD-2EC0-4B41-8170-715F6747AF51}|..\\Lab4\\Lab4_1.csproj|d:\\coding\\design patterns and refactoring\\lab4\\docs\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F89EAD-2EC0-4B41-8170-715F6747AF51}|..\\Lab4\\Lab4_1.csproj|d:\\coding\\design patterns and refactoring\\lab4\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3C3B1C-6DE1-4C75-BB4A-0851E41D0293}|..\\Lab3_2\\Lab3_2.csproj|d:\\coding\\design patterns and refactoring\\lab3_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3C3B1C-6DE1-4C75-BB4A-0851E41D0293}|..\\Lab3_2\\Lab3_2.csproj|d:\\coding\\design patterns and refactoring\\lab3_2\\icomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3C3B1C-6DE1-4C75-BB4A-0851E41D0293}|..\\Lab3_2\\Lab3_2.csproj|d:\\coding\\design patterns and refactoring\\lab3_2\\computerconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3C3B1C-6DE1-4C75-BB4A-0851E41D0293}|..\\Lab3_2\\Lab3_2.csproj|d:\\coding\\design patterns and refactoring\\lab3_2\\gamingcomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3C3B1C-6DE1-4C75-BB4A-0851E41D0293}|..\\Lab3_2\\Lab3_2.csproj|d:\\coding\\design patterns and refactoring\\lab3_2\\homecomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3C3B1C-6DE1-4C75-BB4A-0851E41D0293}|..\\Lab3_2\\Lab3_2.csproj|d:\\coding\\design patterns and refactoring\\lab3_2\\workstationcomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3C3B1C-6DE1-4C75-BB4A-0851E41D0293}|..\\Lab3_2\\Lab3_2.csproj|d:\\coding\\design patterns and refactoring\\lab3_2\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6282AB22-0D25-4658-B3F0-9527369318F7}|..\\Lab3\\Lab3.csproj|d:\\coding\\design patterns and refactoring\\lab3\\homecomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6282AB22-0D25-4658-B3F0-9527369318F7}|..\\Lab3\\Lab3.csproj|d:\\coding\\design patterns and refactoring\\lab3\\icomputerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6282AB22-0D25-4658-B3F0-9527369318F7}|..\\Lab3\\Lab3.csproj|d:\\coding\\design patterns and refactoring\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6282AB22-0D25-4658-B3F0-9527369318F7}|..\\Lab3\\Lab3.csproj|d:\\coding\\design patterns and refactoring\\lab3\\factory\\workstationcomputerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6282AB22-0D25-4658-B3F0-9527369318F7}|..\\Lab3\\Lab3.csproj|d:\\coding\\design patterns and refactoring\\lab3\\factory\\homecomputerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6282AB22-0D25-4658-B3F0-9527369318F7}|..\\Lab3\\Lab3.csproj|d:\\coding\\design patterns and refactoring\\lab3\\factory\\gamingcomputerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6282AB22-0D25-4658-B3F0-9527369318F7}|..\\Lab3\\Lab3.csproj|d:\\coding\\design patterns and refactoring\\lab3\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6282AB22-0D25-4658-B3F0-9527369318F7}|..\\Lab3\\Lab3.csproj|d:\\coding\\design patterns and refactoring\\lab3\\workstationcomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6282AB22-0D25-4658-B3F0-9527369318F7}|..\\Lab3\\Lab3.csproj|d:\\coding\\design patterns and refactoring\\lab3\\gamingcomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6282AB22-0D25-4658-B3F0-9527369318F7}|..\\Lab3\\Lab3.csproj|d:\\coding\\design patterns and refactoring\\lab3\\absctract component\\ssddrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6282AB22-0D25-4658-B3F0-9527369318F7}|..\\Lab3\\Lab3.csproj|d:\\coding\\design patterns and refactoring\\lab3\\absctract component\\ram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6282AB22-0D25-4658-B3F0-9527369318F7}|..\\Lab3\\Lab3.csproj|d:\\coding\\design patterns and refactoring\\lab3\\absctract component\\processor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6282AB22-0D25-4658-B3F0-9527369318F7}|..\\Lab3\\Lab3.csproj|d:\\coding\\design patterns and refactoring\\lab3\\absctract component\\motherboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6282AB22-0D25-4658-B3F0-9527369318F7}|..\\Lab3\\Lab3.csproj|d:\\coding\\design patterns and refactoring\\lab3\\absctract component\\graphiccard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1818B1-FFE7-428E-94E3-E3168A3A382A}|..\\Lab4_2\\Lab4_2.csproj|d:\\coding\\design patterns and refactoring\\lab4_2\\lab4_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855FEF91-AF71-4230-B5F4-58CCE51C902A}|Lab1.csproj|d:\\coding\\design patterns and refactoring\\lab1\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855FEF91-AF71-4230-B5F4-58CCE51C902A}|Lab1.csproj|solutionrelative:studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEB1FBD-F84A-4A8A-A558-480D3B0FB219}|..\\Lab2_2\\Lab2_2.csproj|d:\\coding\\design patterns and refactoring\\lab2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855FEF91-AF71-4230-B5F4-58CCE51C902A}|Lab1.csproj|d:\\coding\\design patterns and refactoring\\lab1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855FEF91-AF71-4230-B5F4-58CCE51C902A}|Lab1.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855FEF91-AF71-4230-B5F4-58CCE51C902A}|Lab1.csproj|d:\\coding\\design patterns and refactoring\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855FEF91-AF71-4230-B5F4-58CCE51C902A}|Lab1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFF3873-DB8E-46FA-AABB-D6C2B3AC1626}|..\\Lab2\\Lab2_1.csproj|d:\\coding\\design patterns and refactoring\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ComputerConfigurator.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab3_2\\ComputerConfigurator.cs",
+              "RelativeDocumentMoniker": "..\\Lab3_2\\ComputerConfigurator.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab3_2\\ComputerConfigurator.cs",
+              "RelativeToolTip": "..\\Lab3_2\\ComputerConfigurator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:43:00.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WorkstationComputerBuilder.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab3_2\\WorkstationComputerBuilder.cs",
+              "RelativeDocumentMoniker": "..\\Lab3_2\\WorkstationComputerBuilder.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab3_2\\WorkstationComputerBuilder.cs",
+              "RelativeToolTip": "..\\Lab3_2\\WorkstationComputerBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:42:39.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GamingComputerBuilder.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab3_2\\GamingComputerBuilder.cs",
+              "RelativeDocumentMoniker": "..\\Lab3_2\\GamingComputerBuilder.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab3_2\\GamingComputerBuilder.cs",
+              "RelativeToolTip": "..\\Lab3_2\\GamingComputerBuilder.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:42:22.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomeComputerBuilder.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab3_2\\HomeComputerBuilder.cs",
+              "RelativeDocumentMoniker": "..\\Lab3_2\\HomeComputerBuilder.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab3_2\\HomeComputerBuilder.cs",
+              "RelativeToolTip": "..\\Lab3_2\\HomeComputerBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:41:51.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IComputerBuilder.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab3_2\\IComputerBuilder.cs",
+              "RelativeDocumentMoniker": "..\\Lab3_2\\IComputerBuilder.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab3_2\\IComputerBuilder.cs",
+              "RelativeToolTip": "..\\Lab3_2\\IComputerBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:41:33.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab3_2\\Computer.cs",
+              "RelativeDocumentMoniker": "..\\Lab3_2\\Computer.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab3_2\\Computer.cs",
+              "RelativeToolTip": "..\\Lab3_2\\Computer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA4wBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:41:13.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab3_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab3_2\\Program.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab3_2\\Program.cs",
+              "RelativeToolTip": "..\\Lab3_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:41:04.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderFacade.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_2\\OrderFacade.cs",
+              "RelativeDocumentMoniker": "..\\Lab5_2\\OrderFacade.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_2\\OrderFacade.cs",
+              "RelativeToolTip": "..\\Lab5_2\\OrderFacade.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:08:51.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shipping.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_2\\Services\\Shipping.cs",
+              "RelativeDocumentMoniker": "..\\Lab5_2\\Services\\Shipping.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_2\\Services\\Shipping.cs",
+              "RelativeToolTip": "..\\Lab5_2\\Services\\Shipping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:07:13.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_2\\Services\\Payment.cs",
+              "RelativeDocumentMoniker": "..\\Lab5_2\\Services\\Payment.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_2\\Services\\Payment.cs",
+              "RelativeToolTip": "..\\Lab5_2\\Services\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:02:53.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_2\\Services\\Inventory.cs",
+              "RelativeDocumentMoniker": "..\\Lab5_2\\Services\\Inventory.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_2\\Services\\Inventory.cs",
+              "RelativeToolTip": "..\\Lab5_2\\Services\\Inventory.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:54:54.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Lab5_1.csproj",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_1\\Lab5_1.csproj",
+              "RelativeDocumentMoniker": "..\\Lab5_1\\Lab5_1.csproj",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_1\\Lab5_1.csproj",
+              "RelativeToolTip": "..\\Lab5_1\\Lab5_1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-29T09:39:36.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab5_2\\Program.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_2\\Program.cs",
+              "RelativeToolTip": "..\\Lab5_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:39:17.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChocolateDecorator.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_1\\Decorator\\ChocolateDecorator.cs",
+              "RelativeDocumentMoniker": "..\\Lab5_1\\Decorator\\ChocolateDecorator.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_1\\Decorator\\ChocolateDecorator.cs",
+              "RelativeToolTip": "..\\Lab5_1\\Decorator\\ChocolateDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:10:21.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SugarDecorator.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_1\\Decorator\\SugarDecorator.cs",
+              "RelativeDocumentMoniker": "..\\Lab5_1\\Decorator\\SugarDecorator.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_1\\Decorator\\SugarDecorator.cs",
+              "RelativeToolTip": "..\\Lab5_1\\Decorator\\SugarDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:09:34.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MilkDecorator.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_1\\Decorator\\MilkDecorator.cs",
+              "RelativeDocumentMoniker": "..\\Lab5_1\\Decorator\\MilkDecorator.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_1\\Decorator\\MilkDecorator.cs",
+              "RelativeToolTip": "..\\Lab5_1\\Decorator\\MilkDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:07:07.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CoffeeDecorator.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_1\\Decorator\\CoffeeDecorator.cs",
+              "RelativeDocumentMoniker": "..\\Lab5_1\\Decorator\\CoffeeDecorator.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_1\\Decorator\\CoffeeDecorator.cs",
+              "RelativeToolTip": "..\\Lab5_1\\Decorator\\CoffeeDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:04:51.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICoffee.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_1\\ICoffee.cs",
+              "RelativeDocumentMoniker": "..\\Lab5_1\\ICoffee.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_1\\ICoffee.cs",
+              "RelativeToolTip": "..\\Lab5_1\\ICoffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:01:56.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_1\\Coffee.cs",
+              "RelativeDocumentMoniker": "..\\Lab5_1\\Coffee.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_1\\Coffee.cs",
+              "RelativeToolTip": "..\\Lab5_1\\Coffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:01:48.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab5_1\\Program.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab5_1\\Program.cs",
+              "RelativeToolTip": "..\\Lab5_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:01:28.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Lab4_2.csproj",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab4_2\\Lab4_2.csproj",
+              "RelativeDocumentMoniker": "..\\Lab4_2\\Lab4_2.csproj",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab4_2\\Lab4_2.csproj",
+              "RelativeToolTip": "..\\Lab4_2\\Lab4_2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T15:11:25.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAirplane.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab4_2\\Interface\\IAirplane.cs",
+              "RelativeDocumentMoniker": "..\\Lab4_2\\Interface\\IAirplane.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab4_2\\Interface\\IAirplane.cs",
+              "RelativeToolTip": "..\\Lab4_2\\Interface\\IAirplane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T15:34:51.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBird.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab4_2\\Interface\\IBird.cs",
+              "RelativeDocumentMoniker": "..\\Lab4_2\\Interface\\IBird.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab4_2\\Interface\\IBird.cs",
+              "RelativeToolTip": "..\\Lab4_2\\Interface\\IBird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T15:34:29.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BirdAdapter.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab4_2\\BirdAdapter.cs",
+              "RelativeDocumentMoniker": "..\\Lab4_2\\BirdAdapter.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab4_2\\BirdAdapter.cs",
+              "RelativeToolTip": "..\\Lab4_2\\BirdAdapter.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T15:19:12.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Airplane.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab4_2\\class\\Airplane.cs",
+              "RelativeDocumentMoniker": "..\\Lab4_2\\class\\Airplane.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab4_2\\class\\Airplane.cs",
+              "RelativeToolTip": "..\\Lab4_2\\class\\Airplane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T15:18:28.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab4_2\\class\\Bird.cs",
+              "RelativeDocumentMoniker": "..\\Lab4_2\\class\\Bird.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab4_2\\class\\Bird.cs",
+              "RelativeToolTip": "..\\Lab4_2\\class\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T15:12:16.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab4_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab4_2\\Program.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab4_2\\Program.cs",
+              "RelativeToolTip": "..\\Lab4_2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T15:10:14.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab4\\Docs\\Contract.cs",
+              "RelativeDocumentMoniker": "..\\Lab4\\Docs\\Contract.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab4\\Docs\\Contract.cs",
+              "RelativeToolTip": "..\\Lab4\\Docs\\Contract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:25.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Article.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab4\\Docs\\Article.cs",
+              "RelativeDocumentMoniker": "..\\Lab4\\Docs\\Article.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab4\\Docs\\Article.cs",
+              "RelativeToolTip": "..\\Lab4\\Docs\\Article.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:19.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab4\\Docs\\Report.cs",
+              "RelativeDocumentMoniker": "..\\Lab4\\Docs\\Report.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab4\\Docs\\Report.cs",
+              "RelativeToolTip": "..\\Lab4\\Docs\\Report.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:13:12.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab4\\Document.cs",
+              "RelativeDocumentMoniker": "..\\Lab4\\Document.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab4\\Document.cs",
+              "RelativeToolTip": "..\\Lab4\\Document.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:07:37.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab4\\Program.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab4\\Program.cs",
+              "RelativeToolTip": "..\\Lab4\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:07:26.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\Computer.cs",
+              "RelativeDocumentMoniker": "..\\Lab3\\Computer.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\Computer.cs",
+              "RelativeToolTip": "..\\Lab3\\Computer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:07:04.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "WorkstationComputerFactory.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\Factory\\WorkstationComputerFactory.cs",
+              "RelativeDocumentMoniker": "..\\Lab3\\Factory\\WorkstationComputerFactory.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\Factory\\WorkstationComputerFactory.cs",
+              "RelativeToolTip": "..\\Lab3\\Factory\\WorkstationComputerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:05:38.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GamingComputerFactory.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\Factory\\GamingComputerFactory.cs",
+              "RelativeDocumentMoniker": "..\\Lab3\\Factory\\GamingComputerFactory.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\Factory\\GamingComputerFactory.cs",
+              "RelativeToolTip": "..\\Lab3\\Factory\\GamingComputerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:59:45.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HomeComputerFactory.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\Factory\\HomeComputerFactory.cs",
+              "RelativeDocumentMoniker": "..\\Lab3\\Factory\\HomeComputerFactory.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\Factory\\HomeComputerFactory.cs",
+              "RelativeToolTip": "..\\Lab3\\Factory\\HomeComputerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:56:35.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "WorkstationComputer.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\WorkstationComputer.cs",
+              "RelativeDocumentMoniker": "..\\Lab3\\WorkstationComputer.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\WorkstationComputer.cs",
+              "RelativeToolTip": "..\\Lab3\\WorkstationComputer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:56:16.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GamingComputer.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\GamingComputer.cs",
+              "RelativeDocumentMoniker": "..\\Lab3\\GamingComputer.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\GamingComputer.cs",
+              "RelativeToolTip": "..\\Lab3\\GamingComputer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:55:58.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeComputer.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\HomeComputer.cs",
+              "RelativeDocumentMoniker": "..\\Lab3\\HomeComputer.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\HomeComputer.cs",
+              "RelativeToolTip": "..\\Lab3\\HomeComputer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:52:40.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IComputerFactory.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\IComputerFactory.cs",
+              "RelativeDocumentMoniker": "..\\Lab3\\IComputerFactory.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\IComputerFactory.cs",
+              "RelativeToolTip": "..\\Lab3\\IComputerFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:51:41.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SSDDrive.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\absctract component\\SSDDrive.cs",
+              "RelativeDocumentMoniker": "..\\Lab3\\absctract component\\SSDDrive.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\absctract component\\SSDDrive.cs",
+              "RelativeToolTip": "..\\Lab3\\absctract component\\SSDDrive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:48:22.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RAM.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\absctract component\\RAM.cs",
+              "RelativeDocumentMoniker": "..\\Lab3\\absctract component\\RAM.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\absctract component\\RAM.cs",
+              "RelativeToolTip": "..\\Lab3\\absctract component\\RAM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:48:17.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GraphicCard.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\absctract component\\GraphicCard.cs",
+              "RelativeDocumentMoniker": "..\\Lab3\\absctract component\\GraphicCard.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\absctract component\\GraphicCard.cs",
+              "RelativeToolTip": "..\\Lab3\\absctract component\\GraphicCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:48:09.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Motherboard.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\absctract component\\Motherboard.cs",
+              "RelativeDocumentMoniker": "..\\Lab3\\absctract component\\Motherboard.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\absctract component\\Motherboard.cs",
+              "RelativeToolTip": "..\\Lab3\\absctract component\\Motherboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:47:56.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Processor.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\absctract component\\Processor.cs",
+              "RelativeDocumentMoniker": "..\\Lab3\\absctract component\\Processor.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\absctract component\\Processor.cs",
+              "RelativeToolTip": "..\\Lab3\\absctract component\\Processor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:47:49.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab3\\Program.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab3\\Program.cs",
+              "RelativeToolTip": "..\\Lab3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:28:27.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab2_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab2_2\\Program.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab2_2\\Program.cs",
+              "RelativeToolTip": "..\\Lab2_2\\Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAADwv0AAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T08:11:15.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab2\\Program.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab2\\Program.cs",
+              "RelativeToolTip": "..\\Lab2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T07:36:56.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab1\\StudentManager.cs",
+              "RelativeDocumentMoniker": "StudentManager.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab1\\StudentManager.cs",
+              "RelativeToolTip": "StudentManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:25:29.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab1\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab1\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:22:01.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Design Patterns and Refactoring\\Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Coding\\Design Patterns and Refactoring\\Lab1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:38:55.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
